@@ -40,7 +40,7 @@
 `cn posts`:
 - FHE_notes : https://github.com/3for/FHE_notes
 - Private information retrieval using homomorphic encryption: https://blintzbase.com/posts/pir-and-fhe-from-scratch/
-- Homomorphic Encryption: ://blog.openmined.org/tag/homomorphic-encryption/
+- Homomorphic Encryption: https://blog.openmined.org/tag/homomorphic-encryption/
 - What is Homomorphic Encryption?: https://blog.openmined.org/what-is-homomorphic-encryption/
 - TFHE：环面上全同态加密方案学习笔记1: https://blog.csdn.net/qq_38076131/article/details/107896239
 - 全同态加密算法深入解析-1: https://mp.weixin.qq.com/s?__biz=MzU3MTYzMjMzNA==&mid=2247484340&idx=1&sn=80111592aa6b0fc6523e78700c6a1542&chksm=fcdc7c15cbabf5037d9fc2427c3bcd46f86a67031f7bdb3c47f3519055fc2188b9832dbeff7b&token=253378721&lang=zh_CN&scene=21#wechat_redirect
